@@ -1,8 +1,10 @@
 .loader {
-    width: 80px;
-    height: 140px;
+    width: 5rem;
+    height: 5rem;
     display: block;
-    margin: 15px auto;
+    margin-top: 20px;
+    margin: 0 auto;
+    display: block;
     position: relative;
     color: var(--color-border-reviews);
     box-sizing: border-box;
