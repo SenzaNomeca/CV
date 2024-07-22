@@ -881,6 +881,7 @@ body{
 
 .certificate__image{
     width: 100%;
+    height: auto;
 }
 
 .certificate__content{
